@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41abb814-145a-419b-bed9-8738831070e2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/ARモデル-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ARモデル.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook/ARモデル.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/ARモデル.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -126,6 +127,11 @@
             <path>
               <item name="scratch-arima" type="b2602c69:ProjectViewProjectNode" />
               <item name="scratch-arima" type="462c0819:PsiDirectoryNode" />
+              <item name="notebook" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scratch-arima" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scratch-arima" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -171,14 +177,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="115" y="23" width="1325" height="809" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32914925" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32914925" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
